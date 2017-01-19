@@ -3,3 +3,5 @@ this is line 2 in doc 2
 this is line 3 in doc 2 added from remote reso
 this is line 4 in doc 2 addes from github.com
 line 5th
+this is line 6th. typing 10:43 Jan 19 2017
+this is line 7th. typed after line 8th
